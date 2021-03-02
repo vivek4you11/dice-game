@@ -1,0 +1,40 @@
+{
+  "name": "game-portal",
+  "version": "1.0.0",
+  "description": "ReadMe File",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "aws.vivekmehta@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@ant-design/icons": "^4.2.1",
+    "antd": "^3.26.17",
+    "react": "^16.13.1",
+    "react-device-detect": "^1.12.1",
+    "react-dom": "^16.13.1",
+    "react-loader-spinner": "^3.1.14",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

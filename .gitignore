@@ -1,0 +1,10 @@
+# NPM packages folder.
+/node_modules
+
+ 
+
+# Ignore OS Files
+.DS_Store
+*.DS_Store
+**/.DS_Store
+ 

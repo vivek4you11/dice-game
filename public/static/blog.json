@@ -1,0 +1,84 @@
+{
+  "blog": [
+    {
+      "id": 121,
+      "header": "Clash Royale Tournament1",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://jiobrowser.akamaized.net/JioTournaments/posters/92994945_6b64268a.png",
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": 122,
+      "header": "Clash Royale Tournament2",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://jiobrowser.akamaized.net/JioTournaments/posters/92994945_6b64268a.png",
+      "published": false,
+      "featured": true
+    },
+    {
+      "id": 123,
+      "header": "Clash Royale Tournament3",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://jiobrowser.akamaized.net/JioTournaments/posters/73d48eb0_8d57562c.png",
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": 124,
+      "header": "Clash Royale Tournament4",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://jiobrowser.akamaized.net/JioTournaments/posters/b173f174_ec4ac572.png",
+      "published": false,
+      "featured": true
+    },
+    {
+      "id": 125,
+      "header": "Clash Royale Tournament5",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://jiobrowser.akamaized.net/JioTournaments/posters/b173f174_ec4ac572.png",
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": 126,
+      "header": "Clash Royale Tournament6",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://gameplay.tips/uploads/posts/2020-01/1579153868_pubg.jpg",
+      "published": true,
+      "featured": true
+    },
+    {
+      "id": 127,
+      "header": "Clash Royale Tournament7",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://gameplay.tips/uploads/posts/2020-01/1579153868_pubg.jpg",
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": 128,
+      "header": "Clash Royale Tournament8",
+      "summary": "Tournament",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Author Name",
+      "imageURL": "https://gameplay.tips/uploads/posts/2020-01/1579153868_pubg.jpg",
+      "published": false,
+      "featured": true
+    }
+  ]
+}
